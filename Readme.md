@@ -10,9 +10,7 @@
 ## Requirements    
     
 - JDK 1.8+    
- - Maven    
- - Npm 6+ (for UI part)    
-    
+ - Maven
     
 ## Services    
  There are 3 services.     
